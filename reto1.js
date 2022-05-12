@@ -131,6 +131,19 @@
 
 // FUNCION CUADRADO
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 function suma (n, m, d){
         console.log(n + m + d)
 }
