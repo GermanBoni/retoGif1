@@ -131,9 +131,6 @@
 
 // FUNCION CUADRADO
 
-function cuadrado (t){
-        console.log(t**2)
-}
-cuadrado(3)
+
 
 
