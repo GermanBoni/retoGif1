@@ -131,9 +131,9 @@
 
 // FUNCION CUADRADO
 
-function cuadrado (t){
-        console.log(t**2)
+function suma (n, m, d){
+        console.log(n + m + d)
 }
-cuadrado(3)
+suma(5, 6, 4)
 
 
