@@ -131,6 +131,6 @@
 
 // FUNCION CUADRADO
 
-
+console.log(3 + 4)
 
 
